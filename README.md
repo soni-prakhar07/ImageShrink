@@ -7,7 +7,7 @@ The Image Shrink App is a user-friendly desktop application designed to resize a
 ### First Clone the repository
 
 ```
-git clone https://github.com/jaypunekar/Image_Shrink_App.git
+git clone https://github.com/soni-prakhar07/ImageShrink.git
 ```
 
 ### Change to ImageShrink directory
